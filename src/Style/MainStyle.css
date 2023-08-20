@@ -894,6 +894,10 @@ footer{
         width: 567px;
     }
 
+    .ss{
+        width: 345px;
+    }
+
     .book {
         display: none;
     }
@@ -901,9 +905,7 @@ footer{
     .book2 {
         display: block;
         position: absolute;
-        margin: 0;
         margin-top: -340px;
-        margin-left: 184px; /* Adjusted value */
     }
 
     /* ... (other responsive adjustments) ... */
